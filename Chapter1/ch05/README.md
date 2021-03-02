@@ -11,9 +11,9 @@
 
 ## 변수 선언과 사용하기 예제
 
-   변수 선언은 자료형과 변수 명으로 선언함
-   선언과 동시에 초기화 할 수 있음
-[VariableTest](https://github.com/Domo9610/java-study/new/main/Chapter1/ch05/VariableTest.java)
+   변수 선언은 자료형과 변수 명으로 선언함 선언과 동시에 초기화 할 수 있음
+   
+   [VariableTest](https://github.com/Domo9610/java-study/new/main/Chapter1/ch05/VariableTest.java)
 
 ## 변수의 이름 만들 때...
     변수 이름은 영문자(대문자, 소문자)나 숫자를 사용할 수도 있고, 특수문자 중에는 $와 _만 사용 (ex. count100, _master)
