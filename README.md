@@ -11,4 +11,4 @@
 
 6. [자바의 다양한 기능들](https://github.com/Domo9610/java-study/tree/main/Chapter6)
 
-tip.[참고강의](https://gitlab.com/easyspubjava/javacoursework/-/tree/master/)
+tip. [참고강의](https://gitlab.com/easyspubjava/javacoursework/-/tree/master/)
