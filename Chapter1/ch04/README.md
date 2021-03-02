@@ -12,4 +12,4 @@
     세 개의 비트로 나타낼 수 있는 수 : 000, 001, 010, 011, 100, 101, 110, 111 (8개)
 
 ## 2진수, 8진수, 16진수를 프로그램에서 사용하는 예제
-[참고](https://github.com/Domo9610/java-study/blob/main/Chapter1/ch04/BinaryTest.java)
+[BinaryTest.java](https://github.com/Domo9610/java-study/blob/main/Chapter1/ch04/BinaryTest.java)
