@@ -10,3 +10,5 @@
 5. [자바와 자료구조](https://github.com/Domo9610/java-study/tree/main/Chapter5)
 
 6. [자바의 다양한 기능들](https://github.com/Domo9610/java-study/tree/main/Chapter6)
+
+[강의](https://gitlab.com/easyspubjava/javacoursework/-/tree/master/)
