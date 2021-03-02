@@ -3,3 +3,6 @@
 01_03. [샘플제작](https://github.com/Domo9610/java-study/tree/main/Chapter1/ch03)
 
 01_04. [컴퓨터에서 자료 표현하기(2,8,16 진수)](https://github.com/Domo9610/java-study/tree/main/Chapter1/ch04)
+
+01_05. [변수](https://github.com/Domo9610/java-study/tree/main/Chapter1/ch05)
+
