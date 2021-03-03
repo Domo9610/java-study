@@ -33,3 +33,6 @@
 + 예) int num = 12345678900; // 오류 <br>
       long lnum = 12345678900; //오류 <br>
       long lnumber = 12345678900L; // ok
+      
+## 예제
+[VariableTest.java](https://github.com/Domo9610/java-study/blob/main/Chapter1/ch06/VariableTest.java)
