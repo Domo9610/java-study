@@ -9,7 +9,7 @@
 
 
 ## 논리형 예제
-[BooleanTest.java}(Https://github.com/Domo9610/java-study/blob/main/Chapter1/ch09/BooleanTest.java)
+[BooleanTest.java](Https://github.com/Domo9610/java-study/blob/main/Chapter1/ch09/BooleanTest.java)
 
 ## 지역 변수 자료형 없이 사용하기 (  자바 10 지원 됨 ) 
 
@@ -22,4 +22,4 @@
  - 지역 변수만 사용 가능
 
 ## 지역변수 예제
-[LocalVariableType.java}(Https://github.com/Domo9610/java-study/blob/main/Chapter1/ch09/LocalVariableType.java)
+[LocalVariableType.java](Https://github.com/Domo9610/java-study/blob/main/Chapter1/ch09/LocalVariableType.java)
