@@ -12,3 +12,5 @@
 
 01_08. [자료형(datatype)-문자](https://github.com/Domo9610/java-study/tree/main/Chapter1/ch08)
 
+01_09. [자료형(datatype)-자료 / 자료형 없이 변수 사용](https://github.com/Domo9610/java-study/tree/main/Chapter1/ch09)
+
