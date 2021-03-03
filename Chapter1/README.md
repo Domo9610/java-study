@@ -6,3 +6,5 @@
 
 01_05. [변수](https://github.com/Domo9610/java-study/tree/main/Chapter1/ch05)
 
+01_06. [자료형(datatype)-정수](https://github.com/Domo9610/java-study/tree/main/Chapter1/ch06)
+
