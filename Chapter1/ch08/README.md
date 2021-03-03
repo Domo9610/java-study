@@ -23,7 +23,7 @@
 ## 예제
 [CharacterTest.java](https://github.com/Domo9610/java-study/blob/main/Chapter1/ch08/CharacterTest.java)
 
-## 참고하세요
+## 참고
 
     character set: 문자를 숫자로 변환한 값의 세트
 
