@@ -8,3 +8,5 @@
 
 01_06. [자료형(datatype)-정수](https://github.com/Domo9610/java-study/tree/main/Chapter1/ch06)
 
+01_07. [자료형(datatype)-실수](https://github.com/Domo9610/java-study/tree/main/Chapter1/ch07)
+
