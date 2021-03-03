@@ -18,7 +18,7 @@ public class CharacterTest {
         //char ch4 = -66;  음수는 대입 할 수 없음
 
         char ch5 = '한';
-        char ch6 = '\uD55C';
+        char ch6 = '\uD55C'; //16진수로 
 
         System.out.println(ch5); // 한
         System.out.println(ch6); // 한
