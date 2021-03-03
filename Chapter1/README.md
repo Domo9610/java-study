@@ -10,3 +10,5 @@
 
 01_07. [자료형(datatype)-실수](https://github.com/Domo9610/java-study/tree/main/Chapter1/ch07)
 
+01_07. [자료형(datatype)-문자](https://github.com/Domo9610/java-study/tree/main/Chapter1/ch08)
+
