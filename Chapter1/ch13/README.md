@@ -35,6 +35,9 @@ public class ConditionTest {
 }
 ```
 
+예제
+[ConditionTest.java](https://github.com/Domo9610/java-study/tree/main/Chapter1/ch13/ConditionTest.java)
+
 
 ## 비트 연산자
 
@@ -76,6 +79,9 @@ public class BitTest {
 }
 ```
 ![bita](./img/bita.PNG)
+
+예제
+[BitTest.java](https://github.com/Domo9610/java-study/tree/main/Chapter1/ch13/BitTest.java)
 
 ## 연산자 우선순위
 
