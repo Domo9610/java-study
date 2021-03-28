@@ -45,4 +45,4 @@
 - 문장(statement)의 끝(;)을 기준으로 연산 시점을 생각해야 함
 
 ## 에시
-[OperatorTest.java](https://github.com/Domo9610/java-study/new/main/Chapter1/ch11/OperatorTest.java)
+[OperatorTest.java](https://github.com/Domo9610/java-study/blob/main/Chapter1/ch11/OperatorTest.java)
