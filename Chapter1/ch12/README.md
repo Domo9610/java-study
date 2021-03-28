@@ -25,36 +25,9 @@
 
 - 연산의 결과가 true(참), false(거짓)으로 반환 됨
 
-![logical](./img/logical.png)
+(예제)
 
-```
-package ch12;
-
-public class LogicalTest {
-
-	public static void main(String[] args) {
-		
-		int num1 = 10;
-		int num2 = 20;
-		
-		boolean flag = (num1 > 0) && (num2 > 0);
-		System.out.println(flag);
-		
-		flag = (num1 < 0) && (num2 > 0);
-		System.out.println(flag);
-		
-		flag = (num1 > 0) || (num2 > 0);
-		System.out.println(flag);
-		
-		flag = (num1 < 0) || (num2 > 0);
-		System.out.println(flag);
-		
-		flag = !(num1 > 0);
-		System.out.println(flag);
-	}
-}
-```
-![logicala](./img/logicala.PNG)
+[LogicalTest.java](https://github.com/Domo9610/java-study/blob/main/Chapter1/ch12/LogicalTest.java)
 
 ## 논리 연산에서 모든 항이 실행되지 않는 경우 - 단락 회로 평가 (short circuit evaluation)
 
@@ -66,27 +39,6 @@ public class LogicalTest {
    
   -- 앞의 항의 결과가 true이면 뒤 항의 결과를 평가하지 않음 
 
-```
-package ch12;
+(예제)
 
-public class ShortCircuit {
-
-	public static void main(String[] args) {
-		
-		int num1 = 10;
-		int i = 2;
-		
-		boolean value = ((num1 = num1 + 10 ) < 10) && ( ( i = i + 2 ) < 10);
-		System.out.println(value);
-		System.out.println(num1);
-		System.out.println(i);
-		
-		value = ((num1 = num1 + 10 ) < 10) || ( ( i = i + 2 ) < 10);
-		System.out.println(value);
-		System.out.println(num1);
-		System.out.println(i);
-		
-	}
-}
-```
-![shorta](./img/shorta.PNG)
+[ShortCircuit.java](https://github.com/Domo9610/java-study/blob/main/Chapter1/ch12/ShortCircuit.java)
