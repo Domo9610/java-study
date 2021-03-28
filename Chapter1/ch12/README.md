@@ -15,8 +15,9 @@
 - == : 두개 항이 같으면 참, 아니면 거짓
 - != : 두개 항이 다르면 참, 아니면 거짓 
 
-예제
-[RealationalTest.java](https://github.com/Domo9610/java-study/new/main/Chapter1/ch12/RealationalTest.java)
+(예제)
+
+[RealationalTest.java](https://github.com/Domo9610/java-study/blob/main/Chapter1/ch12/RealationalTest.java)
 
 ## 논리 연산자
 
